@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 欢迎来到存储库： 👋
 以下是对数据库文件的介绍：
 1. mysql-connector-java-5.1.37-bin.jar ：
 	- Java连接数据库之jdbc 快速入门导入驱动包
